@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/testingcrm/static/css/main.03c69b76.chunk.css",
-    "main.js": "/testingcrm/static/js/main.b614d93f.chunk.js",
-    "main.js.map": "/testingcrm/static/js/main.b614d93f.chunk.js.map",
+    "main.js": "/testingcrm/static/js/main.8b474a2b.chunk.js",
+    "main.js.map": "/testingcrm/static/js/main.8b474a2b.chunk.js.map",
     "runtime-main.js": "/testingcrm/static/js/runtime-main.ff1b22b7.js",
     "runtime-main.js.map": "/testingcrm/static/js/runtime-main.ff1b22b7.js.map",
     "static/js/2.a1060ea2.chunk.js": "/testingcrm/static/js/2.a1060ea2.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/testingcrm/index.html",
     "static/css/main.03c69b76.chunk.css.map": "/testingcrm/static/css/main.03c69b76.chunk.css.map",
     "static/js/2.a1060ea2.chunk.js.LICENSE.txt": "/testingcrm/static/js/2.a1060ea2.chunk.js.LICENSE.txt",
-    "static/js/main.b614d93f.chunk.js.LICENSE.txt": "/testingcrm/static/js/main.b614d93f.chunk.js.LICENSE.txt",
+    "static/js/main.8b474a2b.chunk.js.LICENSE.txt": "/testingcrm/static/js/main.8b474a2b.chunk.js.LICENSE.txt",
     "static/media/404.0834399c.svg": "/testingcrm/static/media/404.0834399c.svg",
     "static/media/logo-auth.a99d7482.svg": "/testingcrm/static/media/logo-auth.a99d7482.svg",
     "static/media/logo.0f4ee27d.svg": "/testingcrm/static/media/logo.0f4ee27d.svg",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.ff1b22b7.js",
     "static/js/2.a1060ea2.chunk.js",
     "static/css/main.03c69b76.chunk.css",
-    "static/js/main.b614d93f.chunk.js"
+    "static/js/main.8b474a2b.chunk.js"
   ]
 }
